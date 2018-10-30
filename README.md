@@ -11,8 +11,8 @@ This is not an official Google product.
 ## USAGE
 
 
-Naoz has 10 different levels of severity levels with tags:
-```
+Naoz has 10 different levels of severity levels and tags:
+```js
   Levels:  'Fatal', 'Error', 'Warn', 'Info', 'None', 'Debug', 'Critical', 'Low', 'Medium', 'High'
 	Tags: 'NONE :', 'INFO : ', 'WARN : ', 'ERROR : ', 'FATAL : ', 'CRITICAL :', 'LOW :', 'MEDIUM :', 'DEBUG :', 'HIGH :
   
