@@ -1,8 +1,7 @@
-<p align="center">
-  <a href="http://ant.design">
-    <img width="230" style="border-radius:50%;" src="https://github.com/Cryptix720/Naoz/blob/master/logo.png">
-  </a>
-</p>
+
+![alt text](https://github.com/Cryptix720/Naoz/blob/master/logo.png)
+
+
 
 
 # Naoz
