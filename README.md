@@ -14,7 +14,7 @@ This is not an official Google product.
 Naoz has 10 different levels of severity levels and tags:
 ```js
   Levels:  'Fatal', 'Error', 'Warn', 'Info', 'None', 'Debug', 'Critical', 'Low', 'Medium', 'High'
-	Tags: 'NONE :', 'INFO : ', 'WARN : ', 'ERROR : ', 'FATAL : ', 'CRITICAL :', 'LOW :', 'MEDIUM :', 'DEBUG :', 'HIGH :
+  Tags: 'NONE :', 'INFO : ', 'WARN : ', 'ERROR : ', 'FATAL : ', 'CRITICAL :', 'LOW :', 'MEDIUM :', 'DEBUG :', 'HIGH :
   
   //BETA TEST:   Customize your own Classification level 
 
@@ -36,7 +36,8 @@ By default, a naoz writes to STDOUT, but given a writeable file path, it will lo
 ### Customization:
 
 You can simply customize the methods by changing `formatLevel()`, `formatTag()` etc.. .
-```
+
+```js
     naoz.formatLevel = function(level, date, message) {
       return date.getTime().toString() + "; " + message;
     };
@@ -47,7 +48,8 @@ You can simply customize the methods by changing `formatLevel()`, `formatTag()` 
 
 Any of the logging methods take `n` arguments, which are each joined by ' ' (similar to `console.log()`). 
 If an argument is not a string, it is stringified by `uti.inspect()`
-```
+
+```js
     naoz.info('loading an array', [1,2,3], 'now!');
     //=> info [Sat Jun 12 2018 01:12:05 GMT-0400 (EDT)]  loading an array [ 1, 2, 3, [length]: 3 ] now!
     naoz.debug('this wont be logged by Naoz');
