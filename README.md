@@ -8,7 +8,7 @@
 
 
 
-[![https://nodei.co/npm/Naoz.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/Naoz.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/Naoz)
+[![https://nodei.co/npm/naoz.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/naoz.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/naoz)
 
 # Naoz
 
