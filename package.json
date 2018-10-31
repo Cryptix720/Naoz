@@ -29,7 +29,7 @@
     "linux",
     "posix",
     "unix",
-    "api"
+    "api",
     "details",
     "npm"
   ],
