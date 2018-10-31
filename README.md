@@ -3,6 +3,12 @@
 
 [![Known Vulnerabilities](https://snyk.io/test/github/Cryptix720/naoz/badge.svg)](https://snyk.io/test/github/Cryptix720/naoz)
 ![Dependencies](https://david-dm.org/Cryptix720/Naoz.svg)
+[![Build Status](https://travis-ci.org/Cryptix720/Naoz.png?branch=master)](https://travis-ci.org/Cryptix720/Naoz)
+
+
+
+
+[![https://nodei.co/npm/Naoz.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/Naoz.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/Naoz)
 
 # Naoz
 
@@ -66,5 +72,5 @@ If an argument is not a string, it is stringified by `uti.inspect()`
 
 ```
     
-## ISSUES:
+## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Cryptix720/Naoz/issues)
 
