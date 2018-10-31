@@ -37,7 +37,7 @@ Every log levels has its own method on the logging instance. You can set the max
 
 By default, a naoz writes to STDOUT, but given a writeable file path, it will log directly to a file.
 
-```css
+```js
 
 
 
