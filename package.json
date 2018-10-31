@@ -1,0 +1,41 @@
+{
+  "name": "naoz",
+  "version": "1.0.0",
+  "description": "Naoz is a  bantamweight logging library for Windows, macOS and Linux",
+  "main": "naoz.js",
+  "directories": {
+
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "repository": {
+  "type" : "git",
+  "url" : "https://github.com/Cryptix720/Naoz.git"
+},
+    "keywords": [
+    "naoz",
+    "files",
+    "logging",
+    "protect",
+    "javascript",
+    "nodejs",
+    "node",
+    "macOS",
+    "windows",
+    "linux",
+    "posix",
+    "unix",
+    "api"
+    "details",
+    "npm"
+  ],
+  "author": "chris pro",
+  "license": "MIT",
+  "dependencies": {
+
+  }
+}
