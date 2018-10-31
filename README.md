@@ -3,7 +3,7 @@
 
 [![Known Vulnerabilities](https://snyk.io/test/github/Cryptix720/naoz/badge.svg)](https://snyk.io/test/github/Cryptix720/naoz)
 ![Dependencies](https://david-dm.org/Cryptix720/Naoz.svg)
-[![Build Status](https://travis-ci.org/Cryptix720/Naoz.png?branch=master)](https://travis-ci.org/Cryptix720/Naoz)
+
 
 
 
@@ -18,7 +18,7 @@
 Naoz is a  bantamweight logging library for Windows, macOS and Linux.
 And a universal logging library that combines the simple APIs.
 
-This is not an official Google product.
+
 
 ## USAGE
 
