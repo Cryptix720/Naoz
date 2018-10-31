@@ -2,7 +2,7 @@
 ![alt Naoz](https://github.com/Cryptix720/Naoz/blob/master/logo.png)
 
 [![Known Vulnerabilities](https://snyk.io/test/github/Cryptix720/naoz/badge.svg)](https://snyk.io/test/github/Cryptix720/naoz)
-https://david-dm.org/username/repo.svg
+![Dependencies](https://david-dm.org/Cryptix720/Naoz.svg)
 
 # Naoz
 
