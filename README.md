@@ -1,7 +1,7 @@
 
-![alt text](https://github.com/Cryptix720/Naoz/blob/master/logo.png)
+![alt Naoz](https://github.com/Cryptix720/Naoz/blob/master/logo.png)
 
-
+[![Known Vulnerabilities](https://snyk.io/test/github/Cryptix720/naoz/badge.svg)](https://snyk.io/test/github/Cryptix720/naoz)
 
 
 # Naoz
