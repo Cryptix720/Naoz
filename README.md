@@ -1,4 +1,3 @@
-
 ![alt Naoz](https://github.com/Cryptix720/Naoz/blob/master/logo.png)
 
 [![Known Vulnerabilities](https://snyk.io/test/github/Cryptix720/naoz/badge.svg)](https://snyk.io/test/github/Cryptix720/naoz)
@@ -73,4 +72,9 @@ If an argument is not a string, it is stringified by `uti.inspect()`
 ```
     
 ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Cryptix720/Naoz/issues)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FCryptix720%2FNaoz.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FCryptix720%2FNaoz?ref=badge_shield)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FCryptix720%2FNaoz.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FCryptix720%2FNaoz?ref=badge_large)
